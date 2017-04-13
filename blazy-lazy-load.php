@@ -1,7 +1,7 @@
 <?php
 /*
   Plugin Name: Blazy Lazy Load
-  Plugin URI: https://github.com/lukecav/wp-blazy
+  Plugin URI: https://github.com/lukecav/blazy-lazy-loading
   Description: WordPress plugin which uses bLazy.js for lazy loading images on a site.
   Author: Luke Cavanagh
   Version: 1.0
