@@ -1,4 +1,4 @@
-# blazy-wp-plugin
+# blazy-lazy-load
 
 WordPress plugin which uses bLazy.js for lazy loading images on a site. Warning: This plugin is still being developed.
 https://github.com/dinbror/blazy
