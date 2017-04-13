@@ -1,13 +1,16 @@
 <?php
-/*
-  Plugin Name: Blazy Lazy Load
-  Plugin URI: https://github.com/lukecav/blazy-lazy-loading
-  Description: WordPress plugin which uses bLazy.js for lazy loading images on a site.
-  Author: Luke Cavanagh
-  Version: 1.0
-  Author URI: https://github.com/lukecav
+defined( 'ABSPATH' ) or	die( 'Cheatin\' uh?' );
+
+/**
+ * Plugin Name: Blazy Lazy Load
+ * Plugin URI: hhttps://github.com/lukecav/blazy-lazy-loading
+ * Description: WordPress plugin which uses bLazy.js for lazy loading images on a site.
+ * Version: 1.0
+ * Author: Luke Cavanagh
+ * Author URI: https://github.com/lukecav
+ * Text Domain: blazy-lazy-load
  */
- 
+
 if ( ! class_exists( 'BlazyLoad_Images' ) ) :
 class BlazyLoad_Images {
 	const version = '1.0';
