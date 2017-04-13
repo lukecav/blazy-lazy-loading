@@ -1,2 +1,7 @@
 # blazy-wp-plugin
-Blazy WordPress Plugin built using https://github.com/dinbror/blazy
+
+WordPress plugin which uses blazy.js to lazy load images.
+https://github.com/dinbror/blazy
+
+= 1.0 =
+Initial Release
