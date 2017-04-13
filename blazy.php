@@ -28,12 +28,13 @@ class BlazyLoad_Images {
 		add_filter( 'get_avatar', array( __CLASS__, 'add_image_placeholders' ), 11 );
 	}
 
-static function add_scripts() {
+	static function add_scripts() {
 		wp_enqueue_script( 'blazy',  self::get_url( 'js/blazy.js' ), array( 'blazy' ), self::version, true );
 	}
 
 function blazyload_images_add_placeholders( $content ) {
 	return BlazyLoad_Images::add_image_placeholders( $content );
 }
+	
 add_action( 'init', array( 'BlazyLoad_Images', 'init' ) );
 endif;
