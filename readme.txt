@@ -5,7 +5,7 @@ Requires at least: 4.6
 Tested up to: 4.7.3
 Stable tag: 1.0
 
-WordPress plugin which uses bLazy.js for lazy loading images on a site.
+WordPress plugin which uses bLazy.js for lazy loading images on a site. Warning: This plugin is still being developed.
 
 == Description ==
 
