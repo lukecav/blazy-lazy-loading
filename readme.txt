@@ -9,7 +9,9 @@ WordPress plugin which uses bLazy.js for lazy loading images on a site.
 
 == Description ==
 
-WordPress plugin which uses bLazy.js for lazy loading images on a site.
+WordPress plugin which uses bLazy.js for lazy loading images on a site. bLazy is used on big sites with millions of monthly visitors so it has been tested out in the real world. bLazy is written in pure JavaScript why it doesn’t depend on 3rd-party libraries such as jQuery. bLazy is lightweight, less than 1.4KB and less than 1.25KB if you don't need IE7- support. bLazy is very fast. It has focus on performance why it also auto-destroys when it's done lazy loading.
+
+https://github.com/dinbror/blazy
 
 == Installation ==
 
