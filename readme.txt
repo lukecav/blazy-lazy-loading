@@ -1,7 +1,7 @@
 === WP Blazy ===
 Contributors: lukecav
 Tags: lazyload, lazy load, images, front-end optimization
-Requires at least: 4.6
+Requires at least: 4.7.0
 Tested up to: 4.7.3
 Stable tag: 1.0
 
